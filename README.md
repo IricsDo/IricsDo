@@ -25,10 +25,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IricsDo?tab=followers)
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=IricsDo&theme=onedark&row=1)](https://github.com/IricsDo/Data-Hidding-Using-GAN)
+
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IricsDo&show_icons=true&theme=material-palenight)](https://github.com/IricsDo/Data-Hidding-Using-GAN)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IricsDo&layout=compact&theme=material-palenight)](https://github.com/IricsDo/Data-Hidding-Using-GAN)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IricsDo&repo=Data-Hidding-Using-GAN&theme=material-palenight)](https://github.com/IricsDo/Data-Hidding-Using-GAN)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=IricsDo&theme=material-palenight)](https://github.com/IricsDo/Data-Hidding-Using-GAN)
