@@ -10,7 +10,7 @@
 [![Website naereen.github.io](https://img.shields.io/website-click-down-green-red/https/naereen.github.io.svg)](https://github.com/IricsDo)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
-## My facebook you can [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.facebook.com/profile.php?id=100006564730482)
+## My facebook you can [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]()
 
 <p align="center">
   <img src="https://images.pexels.com/photos/1292006/pexels-photo-1292006.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/>
