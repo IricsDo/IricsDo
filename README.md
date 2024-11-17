@@ -2,7 +2,7 @@
   YOU ARE LOOKING MY LIFE
 </p>
 
-![My repo](https://visitor-badge.glitch.me/badge?page_id=IricsDo.aff484d19fd54d8e79c7b1033b2cb469fcaa8a1b)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=IricsDo.IricsDo&left_color=green&right_color=red)
 ![Profile views](https://gpvc.arturio.dev/IricsDo)
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/IricsDo/Data-Hidding-Using-GAN/graphs/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/IricsDo/Data-Hidding-Using-GAN/issues)
